@@ -1,1 +1,1 @@
-README for the shell permission task
+My first readme for shell init files
